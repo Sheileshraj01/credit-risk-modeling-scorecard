@@ -1,5 +1,12 @@
 # Credit Risk Modeling & Scorecard Development
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+
 ## Overview
 
 This project develops an end-to-end Credit Risk Scorecard using Logistic Regression to estimate the Probability of Default (PD) for loan applicants.
