@@ -76,6 +76,25 @@ The notebook demonstrates the complete credit risk modeling workflow used in ban
 
 ---
 
+# 📊 Model Visualizations
+
+## ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+---
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+## KS Curve
+
+![KS Curve](images/ks_curve.png)
+
+
 ## Author
 
 **Sheilesh Raj Tandi**
