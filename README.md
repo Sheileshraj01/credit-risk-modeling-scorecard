@@ -15,6 +15,19 @@ The notebook demonstrates the complete credit risk modeling workflow used in ban
 
 ---
 
+## Repository Structure
+
+```
+├── Credit_Risk_Modeling_Scorecard.ipynb
+├── images
+│   ├── roc_curve.png
+│   ├── ks_curve.png
+│   └── confusion_matrix.png
+├── LICENSE
+├── README.md
+└── .gitignore
+```
+
 ## Project Workflow
 
 - Data Quality Assessment
